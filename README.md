@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# MERN Stack Coding Challenge
+
+## Live Demo
+
+You can view the live version of the application at the following URL:
+
+[Deployed Application](https://66aa95a30b77034221957ea9--gentle-cheesecake-7001c1.netlify.app/)
+
